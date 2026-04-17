@@ -25,7 +25,7 @@
 
 
 ## 🌐 Live Demo
-👉 [flashlearn-ai.streamlit.app](https://flashlearn-ai.streamlit.app)
+👉 [flashlearn-ai.streamlit.app](https://flashlearn-ai-ndq2s24njrqcimpdijiwnp.streamlit.app/)
 
 ---
 
